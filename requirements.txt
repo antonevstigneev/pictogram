@@ -1,0 +1,9 @@
+dill==0.3.1.1
+evol==0.5.1
+multiprocess==0.70.9
+Pillow==8.4.0
+py-spy==0.1.8
+streamlit==1.2.0
+torch~=1.7.1
+
+git+https://github.com/openai/CLIP.git
